@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary case_sensitive="true">
+
+<entry>a.</entry>
+<entry>A.</entry>
+<entry>(a)</entry>
+<entry>A/A</entry>
+<entry>aa. vv.</entry>
+<entry>AA. VV.</entry>
+<entry>Abg.</entry>
+<entry>Abg.do</entry>
+<entry>Abg.da</entry>
+<entry>a. C.</entry>
+<entry>a/c</entry>
+<entry>acept.</entry>
+<entry>A. D.</entry>
+<entry>a. de C.</entry>
+<entry>a. de J. C.</entry>
+<entry>a D. g.</entry>
+<entry>admón.</entry>
+<entry>adm.or</entry>
+<entry>adm.ora</entry>
+<entry>admr. </entry>
+<entry>a/f</entry>
+<entry>afmo.</entry>
+<entry>afma.</entry>
+<entry>af.mo</entry>
+<entry>af.ma</entry>
+<entry>A. I.</entry>
+<entry>a. J. C.</entry>
+<entry>Alfz.</entry>
+<entry>Almte.</entry>
+<entry>a. m.</entry>
+<entry>A. M. D. G.</entry>
+<entry>ap.</entry>
+<entry>apdo.</entry>
+<entry>A. R.</entry>
+<entry>Arq.</entry>
+<entry>art.</entry>
+<entry>art.º</entry>
+<entry>Arz.</entry>
+<entry>A. S.</entry>
+<entry>A. T.</entry>
+<entry>atte.</entry>
+<entry>atto.</entry>
+<entry>atta.</entry>
+<entry>av.</entry>
+<entry>avd.</entry>
+<entry>avda.</entry>
+
+<entry>B.</entry>
+<entry>Barna.</entry>
+<entry>Bco.</entry>
+<entry>Bibl.</entry>
+<entry>b. l. m.</entry>
+<entry>Bmo.</entry>
+<entry>Bma.</entry>
+<entry>Bo.</entry>
+<entry>B.º</entry>
+<entry>Brig.</entry>
+<entry>Bs. As.</entry>
+<entry>Bto.</entry>
+<entry>Bta.</entry>
+
+
+<entry>c.</entry>
+<entry>c/</entry>
+<entry>C.ª</entry>
+<entry>C. A.</entry>
+<entry>caj.</entry>
+<entry>cap.</entry>
+<entry>Cap.</entry>
+<entry>Cap. Fed.</entry>
+<entry>cap.º</entry>
+<entry>c. c.</entry>
+<entry>C. C.</entry>
+<entry>c/c</entry>
+<entry>Cdad.</entry>
+<entry>c. e.</entry>
+<entry>cent.</entry>
+<entry>cént.</entry>
+<entry>cts.</entry>
+<entry>C. F.</entry>
+<entry>cf.</entry>
+<entry>cfr.</entry>
+<entry>c. f. s.</entry>
+<entry>cgo.</entry>
+<entry>ch/</entry>
+<entry>C. I.</entry>
+<entry>Cía.</entry>
+<entry>C.ía</entry>
+<entry>cje.</entry>
+<entry>cl.</entry>
+<entry>Cmdt.</entry>
+<entry>Cmte.</entry>
+<entry>Cnel.</entry>
+<entry>cód.</entry>
+<entry>col.</entry>
+<entry>Col.</entry>
+<entry>Comod.</entry>
+<entry>com.ón</entry>
+<entry>Comp.</entry>
+<entry>Comte.</entry>
+<entry>cónf.</entry>
+<entry>cónfr.</entry>
+<entry>Contralmte.</entry>
+<entry>coord.</entry>
+<entry>coord.ª</entry>
+<entry>cp.</entry>
+<entry>C. P.</entry>
+<entry>C. por A.</entry>
+<entry>crec.</entry>
+<entry>cta.</entry>
+<entry>cta. cte.</entry>
+<entry>Cte.</entry>
+<entry>ctv.</entry>
+<entry>ctvo.</entry>
+<entry>c/u</entry>
+
+<entry>D.</entry>
+<entry>D.ª</entry>
+<entry>d. C.</entry>
+<entry>dcho.</entry>
+<entry>dcha.</entry>
+<entry>d. de C.</entry>
+<entry>d. de J. C.</entry>
+<entry>del.</entry>
+<entry>D. E. P.</entry>
+<entry>depto.</entry>
+<entry>desct.º</entry>
+<entry>D. F.</entry>
+<entry>d/f</entry>
+<entry>diag.</entry>
+<entry>dicc.</entry>
+<entry>Dir.</entry>
+<entry>Dir.a</entry>
+<entry>d. J. C.</entry>
+<entry>D. L.</entry>
+<entry>D. m.</entry>
+<entry>Dña.</entry>
+<entry>doc.</entry>
+<entry>D. P.</entry>
+<entry>dpto.</entry>
+<entry>Dr.</entry>
+<entry>Dra.</entry>
+<entry>Dr.ª</entry>
+<entry>dto.</entry>
+<entry>dupdo.</entry>
+<entry>d/v</entry>
+
+<entry>e/</entry>
+<entry>e. c.</entry>
+<entry>e/c</entry>
+<entry>ed.</entry>
+<entry>edit.</entry>
+<entry>edo.</entry>
+<entry>EE. UU.</entry>
+<entry>ef.</entry>
+<entry>ej.</entry>
+<entry>Em.a</entry>
+<entry>Emmo.</entry>
+<entry>entlo.</entry>
+<entry>e. p. d.</entry>
+<entry>e. p. m.</entry>
+<entry>e. s. m.</entry>
+<entry>et ál.</entry>
+<entry>etc.</entry>
+<entry>Exc.ª</entry>
+<entry>excl.</entry>
+<entry>Excmo.</entry>
+<entry>Excma.</entry>
+
+<entry>f.</entry>
+<entry>f.ª</entry>
+<entry>fasc.</entry>
+<entry>F. C.</entry>
+<entry>fca.</entry>
+<entry>Fdo.</entry>
+<entry>féc.</entry>
+<entry>FF. AA.</entry>
+<entry>fig.</entry>
+<entry>f.º</entry>
+<entry>fol.</entry>
+<entry>Fr.</entry>
+<entry>fra.</entry>
+
+<entry>Gdor.</entry>
+<entry>Gdora.</entry>
+<entry>Gdor.ª</entry>
+<entry>Gob.</entry>
+<entry>g. p.</entry>
+<entry>g/p</entry>
+<entry>Gral.</entry>
+<entry>g. v.</entry>
+
+<entry>H.</entry>
+<entry>Hno.</entry>
+<entry>Hna.</entry>
+
+<entry>I.</entry>
+<entry>ib.</entry>
+<entry>ibíd.</entry>
+<entry>íd.</entry>
+<entry>i. e.</entry>
+<entry>igl.ª</entry>
+<entry>Il.</entry>
+<entry>Ilmo.</entry>
+<entry>Ilma.</entry>
+<entry>Iltre.</entry>
+<entry>imp.</entry>
+<entry>impr.</entry>
+<entry>impto.</entry>
+<entry>imp.to</entry>
+<entry>incl.</entry>
+<entry>Ing.</entry>
+<entry>Inst.</entry>
+<entry>izdo.</entry>
+<entry>izda.</entry>
+<entry>izq.</entry>
+<entry>izqdo.</entry>
+<entry>izqda.</entry>
+
+<entry>J. C.</entry>
+<entry>Jhs.</entry>
+<entry>JJ. OO.</entry>
+
+<entry>k. o.</entry>
+
+<entry>L/</entry>
+<entry>l. c.</entry>
+<entry>"Lcdo.</entry>
+<entry>Lcda.</entry>
+
+<entry>Ldo.</entry>
+<entry>Lda.</entry>
+<entry>Lic."</entry>
+<entry>loc. cit.</entry>
+<entry>Ltd.</entry>
+<entry>Ltdo.</entry>
+<entry>Ltda.</entry>
+
+<entry>m.</entry>
+<entry>M.</entry>
+<entry>Magfco.</entry>
+<entry>Magfca.</entry>
+<entry>máx.</entry>
+<entry>M.e</entry>
+<entry>mín.</entry>
+<entry>m. n.</entry>
+<entry>Mons.</entry>
+<entry>mr.</entry>
+<entry>ms.</entry>
+
+<entry>n.</entry>
+<entry>N.ª S.ª</entry>
+<entry>N. B.</entry>
+<entry>N. del T.</entry>
+<entry>n.º</entry>
+<entry>nro.</entry>
+<entry>N. S.</entry>
+<entry>N. S. J. C.</entry>
+<entry>Ntra. Sra.</entry>
+<entry>Ntr.ª Sr.ª</entry>
+<entry>núm.</entry>
+
+<entry>Ob.</entry>
+<entry>ob. cit.</entry>
+<entry>O. F. M.</entry>
+<entry>O. M.</entry>
+<entry>O. P.</entry>
+<entry>óp. cit.</entry>
+<entry>O. S. A.</entry>
+
+<entry>p.</entry>
+<entry>P.</entry>
+<entry>p. a.</entry>
+<entry>pág.</entry>
+<entry>párr.</entry>
+<entry>Pat.</entry>
+<entry>Pbro.</entry>
+<entry>p. d.</entry>
+<entry>P. D.</entry>
+<entry>pdo.</entry>
+<entry>Pdte.</entry>
+<entry>Pdta.</entry>
+<entry>p. ej.</entry>
+<entry>pg.</entry>
+<entry>p. k.</entry>
+<entry>pl.</entry>
+<entry>plza.</entry>
+<entry>p. m.</entry>
+<entry>P. M.</entry>
+<entry>Pnt.</entry>
+<entry>p. o.</entry>
+<entry>P. O.</entry>
+<entry>p/o</entry>
+<entry>p.º</entry>
+<entry>p. p.</entry>
+<entry>ppal.</entry>
+<entry>pral.</entry>
+<entry>Presb.</entry>
+<entry>Prof.</entry>
+<entry>Prof.ª</entry>
+<entry>pról.</entry>
+<entry>prov.</entry>
+<entry>P. S.</entry>
+<entry>p. v.</entry>
+<entry>P. V. P.</entry>
+<entry>pza.</entry>
+
+<entry>q. b. s. m.</entry>
+<entry>q. b. s. p.</entry>
+<entry>q. D. g.</entry>
+<entry>Q. D. G.</entry>
+<entry>q. e. g. e.</entry>
+<entry>q. e. p. d.</entry>
+<entry>q. e. s. m.</entry>
+<entry>q. s. g. h.</entry>
+<entry>R.</entry>
+<entry>R. D.</entry>
+<entry>Rdo.</entry>
+<entry>Rda.</entry>
+<entry>reg.</entry>
+<entry>Rep.</entry>
+<entry>Rev.</entry>
+<entry>R. I. P.</entry>
+<entry>r.º</entry>
+<entry>R. O.</entry>
+<entry>r. p. m.</entry>
+<entry>RR. HH.</entry>
+<entry>Rte.</entry>
+<entry>Rvd.</entry>
+<entry>Rvdo.</entry>
+<entry>Rvda.</entry>
+<entry>Rvdmo.</entry>
+<entry>Rvdma.</entry>
+
+<entry>s.</entry>
+<entry>S.</entry>
+<entry>s. a.</entry>
+<entry>s/a</entry>
+<entry>S.ª</entry>
+<entry>S. A.</entry>
+<entry>S. A. I.</entry>
+<entry>S. A. R.</entry>
+<entry>S. A. S.</entry>
+<entry>s. c.</entry>
+<entry>s/c</entry>
+<entry>s. d.</entry>
+<entry>Sdad.</entry>
+<entry>S. D. M.</entry>
+<entry>s. e.</entry>
+<entry>s/e</entry>
+<entry>S. E.</entry>
+<entry>Ser.mo</entry>
+<entry>Ser.ma</entry>
+<entry>s. e. u o.</entry>
+<entry>s. f.</entry>
+<entry>s/f</entry>
+<entry>Sgto.</entry>
+<entry>S. I.</entry>
+<entry>sig.</entry>
+<entry>S. J.</entry>
+<entry>s. l.</entry>
+<entry>s/l</entry>
+<entry>S. L.</entry>
+<entry>S. M.</entry>
+<entry>s. n.</entry>
+<entry>s/n</entry>
+<entry>Soc.</entry>
+<entry>S. P.</entry>
+<entry>Sr.</entry>
+<entry>Sra.</entry>
+<entry>Sr.ª</entry>
+<entry>S.ª</entry>
+<entry>S. R. C.</entry>
+<entry>S. R. M.</entry>
+<entry>Srta.</entry>
+<entry>s. s.</entry>
+<entry>S. S.</entry>
+<entry>s. s. s.</entry>
+<entry>Sto.</entry>
+<entry>Sta.</entry>
+<entry>s. v.</entry>
+<entry>s/v</entry>
+
+<entry>t.</entry>
+<entry>tel.</entry>
+<entry>teléf.</entry>
+<entry>test.o</entry>
+<entry>tfno.</entry>
+<entry>tít.</entry>
+<entry>trad.</entry>
+<entry>Tte.</entry>
+
+<entry>U.</entry>
+<entry>Ud. (pl. irreg.: Uds.)</entry>
+<entry>Univ.</entry>
+
+<entry>v.</entry>
+<entry>V.</entry>
+<entry>v/</entry>
+<entry>V. A.</entry>
+<entry>Valmte.</entry>
+<entry>V. A. R.</entry>
+<entry>V. B.</entry>
+<entry>Vd. (pl. irreg.: Vds.)</entry>
+<entry>Vdo.</entry>
+<entry>Vda.</entry>
+<entry>V. E.</entry>
+<entry>v. g.</entry>
+<entry>v. gr.</entry>
+<entry>V. I.</entry>
+<entry>vid.</entry>
+<entry>V. M.</entry>
+<entry>v.º</entry>
+<entry>V. O.</entry>
+<entry>V.º B.º</entry>
+<entry>vol.</entry>
+<entry>V. O. S.</entry>
+<entry>V. P.</entry>
+<entry>vs.</entry>
+<entry>V. S.</entry>
+<entry>V. S. I.</entry>
+<entry>vto.</entry>
+<entry>vta.</entry>
+<entry>vv. aa.</entry>
+<entry>VV. AA.</entry>
+
+<entry>W. C.</entry>
+
+<entry>Xto.</entry>
+
+</dictionary>
