@@ -12,7 +12,9 @@ Para obtener estos modelos se han utilizado y modificado los siguientes corpus:
 * [WikiNER](schwa.org/projects/resources/wiki/Wikiner) 
 
 ## Evaluaciones
+
 Segmentación de Oraciones:
+
 |      | CoNLL-A    | CoNLL-B |
 | --------|---------|-------|
 | Precision  | 0.9762   | 0.9865    |
@@ -20,6 +22,7 @@ Segmentación de Oraciones:
 | **F-Measure** | **0.9650** | **0.9814**    |
 
 Tokenización:
+
 |      | CoNLL-A    | CoNLL-B |
 | --------|---------|-------|
 | Precision  | 0.9953   | 0.9945    |
@@ -27,6 +30,7 @@ Tokenización:
 | **F-Measure** | **0.9965** | **0.9959**    |
 
 POS Tagging:
+
 | Cantidad Oraciones           | 4060   |
 |------------------------------|--------|
 | Tamaño mínimo de oraciones   | 2      |
@@ -35,7 +39,8 @@ POS Tagging:
 | Cantidad de etiquetas        | 320    |
 | **Exactitud**                    | **95,09%** |
 
-Named Entity Recognition
+Named Entity Recognition:
+
 | Corpus de Evaluación | F-Measure |
 |----------------------|-----------|
 | AnCora               | 0.9731    |
